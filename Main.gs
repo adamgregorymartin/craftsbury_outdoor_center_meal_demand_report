@@ -40,7 +40,7 @@ const Constants = {
     singleAdditionsInput: 'SingleAdditionsInputTable',
     singleAdditionsFormulas: 'SingleAdditionsFormulaTable'
   },
-  folderId: '1eQ1nanGBCBKyqvePVp3EmGtwVDTV8QMy',
+  folderId: '',
   fileName: 'Meals.csv',
   compositeReservationKeyword: 'composite', // case insensitive
   campRoomPhrases: ['scull', 'run', 'ski'],
